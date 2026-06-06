@@ -55,8 +55,8 @@ Future.delayed(const Duration(seconds: 4), () {
               ),
                 child: Image.asset(
                 'assets/logo.png',
-                width: 100, // 🔹 قمنا بتكبير القيمة هنا ليظهر الشعار فخماً وواضحاً عند الفتح
-                height: 200,
+                width: 80, // 🔹 قمنا بتكبير القيمة هنا ليظهر الشعار فخماً وواضحاً عند الفتح
+                height: 100,
                 
                 fit: BoxFit.contain,
                 errorBuilder: (context, error, stackTrace) => const Icon(
