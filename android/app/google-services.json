@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "917837169708",
+    "project_id": "dawaok-al-badeel-b4c67",
+    "storage_bucket": "dawaok-al-badeel-b4c67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917837169708:android:6a85684f182fe00719bd89",
+        "android_client_info": {
+          "package_name": "com.example.dawaok_albadeel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917837169708-fo8uqer5duv4l5ir2jlssnab16cg2jj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dawaok_albadeel",
+            "certificate_hash": "c9b170bb255ac4e1125a5035760a5202aa0da11d"
+          }
+        },
+        {
+          "client_id": "917837169708-ro6jesksj6buceqa5l1hl81sig64nbh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAOtk5GxNm0itDkY-sEMoujFO1h-5wM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917837169708-ro6jesksj6buceqa5l1hl81sig64nbh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
